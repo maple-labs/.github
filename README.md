@@ -1,2 +1,3 @@
 # .github
-Maple Finance public org profile
+
+Public profile for the [maple-labs](https://github.com/maple-labs) organization. The profile page renders [`profile/README.md`](profile/README.md).
