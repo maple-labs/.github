@@ -1,8 +1,6 @@
-<!-- Banner: add profile/banner.png (1280x320) and uncomment.
 <p align="center">
-  <img src="./banner.png" alt="Maple" width="100%">
+  <img src="./banner.png" alt="Maple: Onchain Capital. Activated" width="100%">
 </p>
--->
 
 Too much capital sits dormant, held back by opacity, outdated rails, and gatekept access. Maple exists to activate it. We put capital to work where it creates growth, and we do it onchain, where anyone can see what we've lent and what backs it.
 
